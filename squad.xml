@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="Morphy">
+    <name>Morphy</name>
+    <email>N/A</email>
+    <web>https://steamcommunity.com/profiles/76561199018180051/</web>
+    <picture>MorphyPhoto.paa</picture>
+    <title>Morphy Arma 3 Squad</title>
+    <member id="76561199018180051" nick="Morphy">
+        <name>qq girl</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <remark>SteamID64: 76561199018180051</remark>
+    </member>
+</squad>
